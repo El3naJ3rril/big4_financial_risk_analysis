@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm passionate about leveraging data analysis to d
 -   😄 Pronouns: She/Her.
 -   ⚡ Fun fact: I'm particularly interested in how data analytics can transform audit and financial reporting processes within large organizations.
 
-## My Skills (Big 4 Focused)
+## My Skills
 
 **Financial Data Analysis & Tools:**
 
